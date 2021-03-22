@@ -1,1 +1,2 @@
 # Predicting_breast_cancer_with_Decision_Tree
+The goal of this project is to build a ML model that can predict the probability of breast cancer by using patients' Mammographic Mass data and Decision Tree Algorithm.
